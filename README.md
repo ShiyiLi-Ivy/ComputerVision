@@ -4,4 +4,4 @@
 
 ## 训练步骤
 
-运行DataLoading，Data Augmentation，Model，Training部分的代码，训练部分参考Experiments。
+运行Data Preprocessing，Model，Training部分的代码，训练部分参考Experiments。
